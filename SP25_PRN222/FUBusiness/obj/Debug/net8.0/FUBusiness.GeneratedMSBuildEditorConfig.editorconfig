@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FUBusiness
-build_property.ProjectDir = D:\prn222\SP25_PRN222\FUBusiness\
+build_property.ProjectDir = D:\prn222\CourseManagement\CourseManagement.Razor\SP25_PRN222\FUBusiness\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

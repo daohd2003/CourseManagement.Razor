@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XUdgaGFIuOw=",
+  "dgSpecHash": "N6hi2o8TifE=",
   "success": true,
-  "projectFilePath": "D:\\prn222\\SP25_PRN222\\FUBusiness\\FUBusiness.csproj",
+  "projectFilePath": "D:\\prn222\\CourseManagement\\CourseManagement.Razor\\SP25_PRN222\\FUBusiness\\FUBusiness.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DAO\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DAO\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

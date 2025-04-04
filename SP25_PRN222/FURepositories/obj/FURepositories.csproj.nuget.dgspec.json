@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\prn222\\SP25_PRN222\\FURepositories\\FURepositories.csproj": {}
+    "D:\\prn222\\CourseManagement\\CourseManagement.Razor\\SP25_PRN222\\FURepositories\\FURepositories.csproj": {}
   },
   "projects": {
-    "D:\\prn222\\SP25_PRN222\\FUBusiness\\FUBusiness.csproj": {
+    "D:\\prn222\\CourseManagement\\CourseManagement.Razor\\SP25_PRN222\\FUBusiness\\FUBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\prn222\\SP25_PRN222\\FUBusiness\\FUBusiness.csproj",
+        "projectUniqueName": "D:\\prn222\\CourseManagement\\CourseManagement.Razor\\SP25_PRN222\\FUBusiness\\FUBusiness.csproj",
         "projectName": "FUBusiness",
-        "projectPath": "D:\\prn222\\SP25_PRN222\\FUBusiness\\FUBusiness.csproj",
+        "projectPath": "D:\\prn222\\CourseManagement\\CourseManagement.Razor\\SP25_PRN222\\FUBusiness\\FUBusiness.csproj",
         "packagesPath": "C:\\Users\\DAO\\.nuget\\packages\\",
-        "outputPath": "D:\\prn222\\SP25_PRN222\\FUBusiness\\obj\\",
+        "outputPath": "D:\\prn222\\CourseManagement\\CourseManagement.Razor\\SP25_PRN222\\FUBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -87,14 +87,14 @@
         }
       }
     },
-    "D:\\prn222\\SP25_PRN222\\FURepositories\\FURepositories.csproj": {
+    "D:\\prn222\\CourseManagement\\CourseManagement.Razor\\SP25_PRN222\\FURepositories\\FURepositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\prn222\\SP25_PRN222\\FURepositories\\FURepositories.csproj",
+        "projectUniqueName": "D:\\prn222\\CourseManagement\\CourseManagement.Razor\\SP25_PRN222\\FURepositories\\FURepositories.csproj",
         "projectName": "FURepositories",
-        "projectPath": "D:\\prn222\\SP25_PRN222\\FURepositories\\FURepositories.csproj",
+        "projectPath": "D:\\prn222\\CourseManagement\\CourseManagement.Razor\\SP25_PRN222\\FURepositories\\FURepositories.csproj",
         "packagesPath": "C:\\Users\\DAO\\.nuget\\packages\\",
-        "outputPath": "D:\\prn222\\SP25_PRN222\\FURepositories\\obj\\",
+        "outputPath": "D:\\prn222\\CourseManagement\\CourseManagement.Razor\\SP25_PRN222\\FURepositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,8 +112,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\prn222\\SP25_PRN222\\FUBusiness\\FUBusiness.csproj": {
-                "projectPath": "D:\\prn222\\SP25_PRN222\\FUBusiness\\FUBusiness.csproj"
+              "D:\\prn222\\CourseManagement\\CourseManagement.Razor\\SP25_PRN222\\FUBusiness\\FUBusiness.csproj": {
+                "projectPath": "D:\\prn222\\CourseManagement\\CourseManagement.Razor\\SP25_PRN222\\FUBusiness\\FUBusiness.csproj"
               }
             }
           }
