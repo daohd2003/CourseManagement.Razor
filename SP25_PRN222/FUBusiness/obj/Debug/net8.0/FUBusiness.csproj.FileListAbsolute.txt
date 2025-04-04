@@ -1,0 +1,14 @@
+D:\prn222\SP25_PRN222\FUBusiness\bin\Debug\net8.0\FUBusiness.deps.json
+D:\prn222\SP25_PRN222\FUBusiness\bin\Debug\net8.0\FUBusiness.runtimeconfig.json
+D:\prn222\SP25_PRN222\FUBusiness\bin\Debug\net8.0\FUBusiness.dll
+D:\prn222\SP25_PRN222\FUBusiness\bin\Debug\net8.0\FUBusiness.pdb
+D:\prn222\SP25_PRN222\FUBusiness\obj\Debug\net8.0\FUBusiness.csproj.AssemblyReference.cache
+D:\prn222\SP25_PRN222\FUBusiness\obj\Debug\net8.0\FUBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\prn222\SP25_PRN222\FUBusiness\obj\Debug\net8.0\FUBusiness.AssemblyInfoInputs.cache
+D:\prn222\SP25_PRN222\FUBusiness\obj\Debug\net8.0\FUBusiness.AssemblyInfo.cs
+D:\prn222\SP25_PRN222\FUBusiness\obj\Debug\net8.0\FUBusiness.csproj.CoreCompileInputs.cache
+D:\prn222\SP25_PRN222\FUBusiness\obj\Debug\net8.0\FUBusiness.dll
+D:\prn222\SP25_PRN222\FUBusiness\obj\Debug\net8.0\refint\FUBusiness.dll
+D:\prn222\SP25_PRN222\FUBusiness\obj\Debug\net8.0\FUBusiness.pdb
+D:\prn222\SP25_PRN222\FUBusiness\obj\Debug\net8.0\FUBusiness.genruntimeconfig.cache
+D:\prn222\SP25_PRN222\FUBusiness\obj\Debug\net8.0\ref\FUBusiness.dll

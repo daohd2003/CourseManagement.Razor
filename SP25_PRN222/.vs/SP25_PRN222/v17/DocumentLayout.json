@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\prn222\\SP25_PRN222\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|d:\\prn222\\sp25_prn222\\fuwebapp\\pages\\courses\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|solutionrelative:fuwebapp\\pages\\courses\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|d:\\prn222\\sp25_prn222\\fuwebapp\\pages\\courses\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|solutionrelative:fuwebapp\\pages\\courses\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|d:\\prn222\\sp25_prn222\\fuwebapp\\pages\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|solutionrelative:fuwebapp\\pages\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|d:\\prn222\\sp25_prn222\\fuwebapp\\pages\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|solutionrelative:fuwebapp\\pages\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|d:\\prn222\\sp25_prn222\\fuwebapp\\pages\\courses\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|solutionrelative:fuwebapp\\pages\\courses\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|d:\\prn222\\sp25_prn222\\fuwebapp\\pages\\courses\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|solutionrelative:fuwebapp\\pages\\courses\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|d:\\prn222\\sp25_prn222\\fuwebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|solutionrelative:fuwebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|d:\\prn222\\sp25_prn222\\fuwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|solutionrelative:fuwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|d:\\prn222\\sp25_prn222\\fuwebapp\\pages\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|solutionrelative:fuwebapp\\pages\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB235CD0-0D69-435C-A536-31812E24BB86}|FURepositories\\FURepositories.csproj|d:\\prn222\\sp25_prn222\\furepositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB235CD0-0D69-435C-A536-31812E24BB86}|FURepositories\\FURepositories.csproj|solutionrelative:furepositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300602A6-5914-4DB1-B368-FC1392B087E3}|FUDataAccess\\FUDataAccess.csproj|d:\\prn222\\sp25_prn222\\fudataaccess\\coursedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300602A6-5914-4DB1-B368-FC1392B087E3}|FUDataAccess\\FUDataAccess.csproj|solutionrelative:fudataaccess\\coursedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|d:\\prn222\\sp25_prn222\\fuwebapp\\pages\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|solutionrelative:fuwebapp\\pages\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|d:\\prn222\\sp25_prn222\\fuwebapp\\pages\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|solutionrelative:fuwebapp\\pages\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|d:\\prn222\\sp25_prn222\\fuwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|solutionrelative:fuwebapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|d:\\prn222\\sp25_prn222\\fuwebapp\\pages\\courses\\enroll.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|solutionrelative:fuwebapp\\pages\\courses\\enroll.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|d:\\prn222\\sp25_prn222\\fuwebapp\\pages\\auth\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|solutionrelative:fuwebapp\\pages\\auth\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|d:\\prn222\\sp25_prn222\\fuwebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261D8970-1A27-4A3B-8D47-4BD927095853}|FUWebApp\\FUWebApp.csproj|solutionrelative:fuwebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 5,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "FUWebApp\\Program.cs",
+              "ToolTip": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Program.cs",
+              "RelativeToolTip": "FUWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:00:50.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FUWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FUWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T05:14:03.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Courses\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FUWebApp\\Pages\\Courses\\Index.cshtml.cs",
+              "ToolTip": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Courses\\Index.cshtml.cs",
+              "RelativeToolTip": "FUWebApp\\Pages\\Courses\\Index.cshtml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:40:21.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "FUWebApp\\Pages\\Courses\\Index.cshtml",
+              "ToolTip": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Courses\\Index.cshtml",
+              "RelativeToolTip": "FUWebApp\\Pages\\Courses\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T15:40:21.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Courses\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FUWebApp\\Pages\\Courses\\Create.cshtml.cs",
+              "ToolTip": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Courses\\Create.cshtml.cs",
+              "RelativeToolTip": "FUWebApp\\Pages\\Courses\\Create.cshtml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:40:20.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "FUWebApp\\Pages\\Courses\\Create.cshtml",
+              "ToolTip": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Courses\\Create.cshtml",
+              "RelativeToolTip": "FUWebApp\\Pages\\Courses\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T15:40:20.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Courses\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "FUWebApp\\Pages\\Courses\\Edit.cshtml.cs",
+              "ToolTip": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Courses\\Edit.cshtml.cs",
+              "RelativeToolTip": "FUWebApp\\Pages\\Courses\\Edit.cshtml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:40:21.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Courses\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "FUWebApp\\Pages\\Courses\\Delete.cshtml.cs",
+              "ToolTip": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Courses\\Delete.cshtml.cs",
+              "RelativeToolTip": "FUWebApp\\Pages\\Courses\\Delete.cshtml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:40:21.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "FUWebApp\\Pages\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Auth\\Login.cshtml",
+              "RelativeToolTip": "FUWebApp\\Pages\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T05:54:43.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "D:\\prn222\\SP25_PRN222\\FURepositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "FURepositories\\CourseRepository.cs",
+              "ToolTip": "D:\\prn222\\SP25_PRN222\\FURepositories\\CourseRepository.cs",
+              "RelativeToolTip": "FURepositories\\CourseRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:45:40.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseDAO.cs",
+              "DocumentMoniker": "D:\\prn222\\SP25_PRN222\\FUDataAccess\\CourseDAO.cs",
+              "RelativeDocumentMoniker": "FUDataAccess\\CourseDAO.cs",
+              "ToolTip": "D:\\prn222\\SP25_PRN222\\FUDataAccess\\CourseDAO.cs",
+              "RelativeToolTip": "FUDataAccess\\CourseDAO.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAArwC0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:17:17.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FUWebApp\\Pages\\Courses\\Edit.cshtml",
+              "ToolTip": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "FUWebApp\\Pages\\Courses\\Edit.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T15:40:20.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Courses\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FUWebApp\\Pages\\Courses\\Delete.cshtml",
+              "ToolTip": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Courses\\Delete.cshtml",
+              "RelativeToolTip": "FUWebApp\\Pages\\Courses\\Delete.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowCoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T15:40:21.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "D:\\prn222\\SP25_PRN222\\FUWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "FUWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "D:\\prn222\\SP25_PRN222\\FUWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "FUWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAAo2AAAAAAAAAAAowB42AAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-22T11:47:21.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Enroll.cshtml.cs",
+              "DocumentMoniker": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Courses\\Enroll.cshtml.cs",
+              "RelativeDocumentMoniker": "FUWebApp\\Pages\\Courses\\Enroll.cshtml.cs",
+              "ToolTip": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Courses\\Enroll.cshtml.cs",
+              "RelativeToolTip": "FUWebApp\\Pages\\Courses\\Enroll.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:44:21.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "FUWebApp\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "FUWebApp\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T05:43:59.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Auth\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "FUWebApp\\Pages\\Auth\\Login.cshtml.cs",
+              "ToolTip": "D:\\prn222\\SP25_PRN222\\FUWebApp\\Pages\\Auth\\Login.cshtml.cs",
+              "RelativeToolTip": "FUWebApp\\Pages\\Auth\\Login.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:54:44.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

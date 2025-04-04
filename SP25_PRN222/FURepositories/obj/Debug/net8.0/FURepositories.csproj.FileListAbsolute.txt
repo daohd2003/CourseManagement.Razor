@@ -1,0 +1,15 @@
+D:\prn222\SP25_PRN222\FURepositories\bin\Debug\net8.0\FURepositories.deps.json
+D:\prn222\SP25_PRN222\FURepositories\bin\Debug\net8.0\FURepositories.dll
+D:\prn222\SP25_PRN222\FURepositories\bin\Debug\net8.0\FURepositories.pdb
+D:\prn222\SP25_PRN222\FURepositories\bin\Debug\net8.0\FUBusiness.dll
+D:\prn222\SP25_PRN222\FURepositories\bin\Debug\net8.0\FUBusiness.pdb
+D:\prn222\SP25_PRN222\FURepositories\obj\Debug\net8.0\FURepositories.csproj.AssemblyReference.cache
+D:\prn222\SP25_PRN222\FURepositories\obj\Debug\net8.0\FURepositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\prn222\SP25_PRN222\FURepositories\obj\Debug\net8.0\FURepositories.AssemblyInfoInputs.cache
+D:\prn222\SP25_PRN222\FURepositories\obj\Debug\net8.0\FURepositories.AssemblyInfo.cs
+D:\prn222\SP25_PRN222\FURepositories\obj\Debug\net8.0\FURepositories.csproj.CoreCompileInputs.cache
+D:\prn222\SP25_PRN222\FURepositories\obj\Debug\net8.0\FUReposi.9B8EA18B.Up2Date
+D:\prn222\SP25_PRN222\FURepositories\obj\Debug\net8.0\FURepositories.dll
+D:\prn222\SP25_PRN222\FURepositories\obj\Debug\net8.0\refint\FURepositories.dll
+D:\prn222\SP25_PRN222\FURepositories\obj\Debug\net8.0\FURepositories.pdb
+D:\prn222\SP25_PRN222\FURepositories\obj\Debug\net8.0\ref\FURepositories.dll

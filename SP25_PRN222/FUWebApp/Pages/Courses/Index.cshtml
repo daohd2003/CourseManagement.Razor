@@ -1,0 +1,59 @@
+﻿@page
+@model FUWebApp.Pages.Courses.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+@if (User.IsInRole("Admin"))
+{<p>
+        <a asp-page="Create">Create New</a>
+    </p>
+}
+<form method="get">
+    <p>
+        <input type="text" name="SearchString" value="@Model.Keyword" placeholder="Search by name" />
+        <input type="text" name="SearchCourCodeString" value="@Model.Keyword1" placeholder="Search by code" />
+        <input type="submit" value="Search" />
+    </p>
+</form>
+@if (Model.Courses == null || !Model.Courses.Any())
+{
+    <p>No Courses found.</p>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Course Code</th>
+            <th>Category</th>
+            <th>Capacity</th>
+            <th>Created At</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var course in Model.Courses)
+        {
+            <tr>
+                <td>@course.Title</td>
+                <td>@course.CourseCode</td>
+                <td>@course.Category</td>
+                <td>@course.Capacity</td>
+                <td>@course.CreatedAt</td>
+                <td>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a asp-page="/Courses/Edit" asp-route-id="@course.Id" class="btn btn-primary">Edit</a>
+                        <a asp-page="/Courses/Delete" asp-route-id="@course.Id" class="btn btn-danger">Delete</a>
+                    }
+                    else
+                    {
+                        <a asp-page="/Courses/Enroll" asp-route-id="@course.Id">Enroll</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

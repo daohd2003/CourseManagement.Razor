@@ -1,0 +1,17 @@
+D:\prn222\SP25_PRN222\FUDataAccess\bin\Debug\net8.0\FUDataAccess.deps.json
+D:\prn222\SP25_PRN222\FUDataAccess\bin\Debug\net8.0\FUDataAccess.dll
+D:\prn222\SP25_PRN222\FUDataAccess\bin\Debug\net8.0\FUDataAccess.pdb
+D:\prn222\SP25_PRN222\FUDataAccess\bin\Debug\net8.0\FUBusiness.dll
+D:\prn222\SP25_PRN222\FUDataAccess\bin\Debug\net8.0\FURepositories.dll
+D:\prn222\SP25_PRN222\FUDataAccess\bin\Debug\net8.0\FUBusiness.pdb
+D:\prn222\SP25_PRN222\FUDataAccess\bin\Debug\net8.0\FURepositories.pdb
+D:\prn222\SP25_PRN222\FUDataAccess\obj\Debug\net8.0\FUDataAccess.csproj.AssemblyReference.cache
+D:\prn222\SP25_PRN222\FUDataAccess\obj\Debug\net8.0\FUDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\prn222\SP25_PRN222\FUDataAccess\obj\Debug\net8.0\FUDataAccess.AssemblyInfoInputs.cache
+D:\prn222\SP25_PRN222\FUDataAccess\obj\Debug\net8.0\FUDataAccess.AssemblyInfo.cs
+D:\prn222\SP25_PRN222\FUDataAccess\obj\Debug\net8.0\FUDataAccess.csproj.CoreCompileInputs.cache
+D:\prn222\SP25_PRN222\FUDataAccess\obj\Debug\net8.0\FUDataAc.3E702A73.Up2Date
+D:\prn222\SP25_PRN222\FUDataAccess\obj\Debug\net8.0\FUDataAccess.dll
+D:\prn222\SP25_PRN222\FUDataAccess\obj\Debug\net8.0\refint\FUDataAccess.dll
+D:\prn222\SP25_PRN222\FUDataAccess\obj\Debug\net8.0\FUDataAccess.pdb
+D:\prn222\SP25_PRN222\FUDataAccess\obj\Debug\net8.0\ref\FUDataAccess.dll
